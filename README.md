@@ -1,4 +1,4 @@
-# Steamic
+# CamAI
 
 Camera AI motion detection system that watches a webcam for faces and vehicles, automatically records short clips, compresses them into a custom `.steamic` format, and provides a browser-based UI to decompress and play them back.
 
